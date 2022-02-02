@@ -1,0 +1,16 @@
+{
+    "name": "Repository",
+    "rootNamespace": "Vriendly.Repository",
+    "references": [
+        "GUID:290adfc40c67d384b9e8cbd6cb2dfad8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
